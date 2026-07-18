@@ -74,13 +74,5 @@ CertificadoInstituiçãoAnoIntrodução à Linguagem PythonFundação Bradesco20
 
 
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedr0165&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedr0165&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
   📫 <b>Vamos conversar?</b> Estou em busca de oportunidades de estágio em TI — entre em contato!
 </p>
