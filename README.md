@@ -1,4 +1,4 @@
-# <h1 align="center">Olá, eu sou o Pedro 👋</h1>
+# <h1 align="center">Pedro Magalhães</h1>
 <h3 align="center">Estudante de Ciência da Computação | Back-end • Front-end • Análise de Dados</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pedromagalh%C3%A3es-2a549a345">
