@@ -61,15 +61,10 @@ Curso em parceria com a ESPRO sobre comportamento e funcionamento do meio empres
 Outras ferramentas: Linux (Zorin OS) · PostgreSQL · Excel · PowerPoint
 
 
-📜 Certificados
-
-CertificadoInstituiçãoAnoIntrodução à Linguagem PythonFundação Bradesco2025Excel BásicoFundação Bradesco2025Fundamentos do Hardware do ComputadorCisco Networking Academy2025Academy Cloud Foundations (em andamento)AWS2026Academy Cloud Developing (em andamento)AWS2026Maratona Cisco 12Cisco Networking Academy2026CCNA: Protocolos de RedesCisco Networking Academy2026JavaScript 1Cisco Networking Academy2026
-
-
 🌐 Idiomas
 
 
-🇬🇧 Inglês — Básico A2 (CNA)
+🇬🇧 Inglês — Básico Intermediário (CNA)
 🇪🇸 Espanhol — Básico (Ensino Médio)
 
 
