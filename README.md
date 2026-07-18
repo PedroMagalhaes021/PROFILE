@@ -7,14 +7,14 @@
  
 </p>
 
-🎯 Sobre mim
+<h4>🎯 Sobre mim</h4>
 
 Busco oportunidades de estágio em Tecnologia da Informação, com foco em desenvolvimento Back-end, Front-end e Análise de Dados. Sou estudante de Ciência da Computação na Universidade Estácio de Sá (bolsista 100% ProUni), com experiência prática em projetos de sistemas web, banco de dados SQL/PostgreSQL e ambiente Linux (Zorin OS).
 
 Motivado, autodidata e comprometido em agregar valor desde o primeiro dia. 
 
 
-🎓 Formação Acadêmica
+<h4>🎓 Formação Acadêmica</h4>
 
 
 Bacharelado em Ciência da Computação — Universidade Estácio de Sá (2025 – 2029)
@@ -34,7 +34,7 @@ Olimpíadas: OBMEP (2024–2025) • MOBFOG (2024) • OBMAP (2024, 2025)
 
 
 
-💼 Experiência Profissional
+<h4>💼 Experiência Profissional</h4>
 
 Jovem Aprendiz — Controle de Dados Hospitalares
 IGEDES (Planejamento e Qualidade) · 2026 – Atual
@@ -46,7 +46,7 @@ Curso em parceria com a ESPRO sobre comportamento e funcionamento do meio empres
 
 
 
-🛠️ Linguagens & Tecnologias
+<h4>🛠️ Linguagens & Tecnologias</h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Intermediário%2FAvançado-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -59,7 +59,7 @@ Curso em parceria com a ESPRO sobre comportamento e funcionamento do meio empres
 Outras ferramentas: Linux (Zorin OS) · PostgreSQL · Excel · PowerPoint
 
 
-🌐 Idiomas
+<h4>🌐 Idiomas</h4>
 
 
 <p>🇬🇧 Inglês — Básico Intermediário (CNA)</p>
