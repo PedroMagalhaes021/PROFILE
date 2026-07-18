@@ -69,5 +69,5 @@ Outras ferramentas: Linux (Zorin OS) · PostgreSQL · Excel · PowerPoint
 
   📫 <b>Vamos conversar?</b> Estou em busca de oportunidades de estágio em TI — entre em contato!
       <p>E-mail: pcmagalhaes2006@gmail.com</p>
-      <p>Celular: 2199698-2528 </p>
+      <p>Celular: (21) 99698-2528 </p>
 </p>
