@@ -62,8 +62,8 @@ Outras ferramentas: Linux (Zorin OS) · PostgreSQL · Excel · PowerPoint
 🌐 Idiomas
 
 
-🇬🇧 Inglês — Básico Intermediário (CNA)
-🇪🇸 Espanhol — Básico (Ensino Médio)
+<p>🇬🇧 Inglês — Básico Intermediário (CNA)</p>
+<p>🇪🇸 Espanhol — Básico (Ensino Médio)</p>
 
 
 
