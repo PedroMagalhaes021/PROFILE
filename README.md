@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/pedro-magalh%C3%A3es-2a549a345/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <h3 align="center">Email: pcmagalhaes2006@gmail.com </h3>  
+  <h3 align="center">Email: pcmagalhaes2006@gmail.com</h3>
    
 </p>
 
