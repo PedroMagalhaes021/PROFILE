@@ -1,7 +1,7 @@
 # <h1 align="center">Pedro Magalhães</h1>
 <h3 align="center">Estudante de Ciência da Computação | Back-end • Front-end • Análise de Dados</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedromagalh%C3%A3es-2a549a345">
+  <a href="https://www.linkedin.com/in/pedro-magalh%C3%A3es-2a549a345/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pcmagalhaes2006@gmail.com">
