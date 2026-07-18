@@ -12,7 +12,7 @@
 
 Busco oportunidades de estágio em Tecnologia da Informação, com foco em desenvolvimento Back-end, Front-end e Análise de Dados. Sou estudante de Ciência da Computação na Universidade Estácio de Sá (bolsista 100% ProUni), com experiência prática em projetos de sistemas web, banco de dados SQL/PostgreSQL e ambiente Linux (Zorin OS).
 
-Motivado, autodidata e comprometido em agregar valor desde o primeiro dia. 🚀
+Motivado, autodidata e comprometido em agregar valor desde o primeiro dia. 
 
 
 🎓 Formação Acadêmica
